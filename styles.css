@@ -1,4 +1,3 @@
-
 :root{
   --paper:#FAF7F2;
   --paper-deep:#F1ECE3;
@@ -10,7 +9,6 @@
   --gold:#D4A647;
   --line:#E2DACD;
 }
-
 
 *{margin:0;padding:0;box-sizing:border-box;}
 
